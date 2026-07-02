@@ -212,4 +212,4 @@ with tab3:
                         <small>Obs: {row['Observaciones'] if pd.notna(row['Observaciones']) else 'Sin observaciones'}</small>
                     </div>
                     """
-                    st.markdown(html_card, unsafe_convert_html=True)
+                    st.markdown(html_card, unsafe_allow_html=True)
