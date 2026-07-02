@@ -49,42 +49,58 @@ with tab1:
 
 # --- PESTAÑA 2: FLOTA ---
 with tab2:
-    st.header("🔧 Registro de Mantenimiento")
-    st.write("Completa el formulario para enviar los datos a Google Sheets.")
+    st.header("🔧 Gestión de Mantenimiento")
+    
+    # 1. URL de tu nuevo archivo en GitHub (con el truco anti-caché para leer en tiempo real)
+    url_mantenimiento = 'https://raw.githubusercontent.com/germansacchi-hub/Dashboard-Vencimientos/main/datos_mantenimiento.csv?nocache=' + str(pd.Timestamp.now().timestamp())
+    
+    # Intentamos leer el archivo de GitHub
+    try:
+        df_mantenimiento = pd.read_csv(url_mantenimiento)
+    except Exception as e:
+        df_mantenimiento = pd.DataFrame()
 
-    # st.form crea la "cajita" donde el usuario escribe
-    with st.form("form_mantenimiento", clear_on_submit=True):
+    # 2. Dividimos la pantalla: Izquierda (Tabla) y Derecha (Formulario)
+    col_tabla, col_form = st.columns([2, 1])
+    
+    # --- LADO IZQUIERDO: VER LOS DATOS ---
+    with col_tabla:
+        st.subheader("📋 Historial y Estado Actual")
         
-        # Creamos las 5 cajas de texto/opciones para tus columnas
-        tipo = st.text_input("Tipo")
-        vehiculo = st.text_input("Veh/Maq")
-        plan = st.text_input("Plan")
-        tarea = st.text_input("Tarea/Documento")
-        estado = st.selectbox("Estado", ["Pendiente", "En proceso", "Finalizado"])
+        if not df_mantenimiento.empty:
+            st.dataframe(df_mantenimiento, use_container_width=True)
+        else:
+            st.info("La tabla está vacía. ¡Agrega tu primer mantenimiento a la derecha!")
+
+    # --- LADO DERECHO: FORMULARIO ---
+    with col_form:
+        st.subheader("✏️ Registrar Nuevo")
         
-        # El botón mágico
-        btn_guardar = st.form_submit_button("💾 Guardar Mantenimiento")
-        
-        if btn_guardar:
-            # Empaquetamos los datos exactamente con los mismos nombres que espera el Apps Script
-            datos_a_enviar = {
-                "tipo": tipo,
-                "vehiculo": vehiculo,
-                "plan": plan,
-                "tarea": tarea,
-                "estado": estado
-            }
+        with st.form("form_mantenimiento", clear_on_submit=True):
+            tipo = st.text_input("Tipo")
+            vehiculo = st.text_input("Veh/Maq")
+            plan = st.text_input("Plan")
+            tarea = st.text_input("Tarea/Documento")
+            estado = st.selectbox("Estado", ["Pendiente", "En proceso", "Finalizado"])
             
-            # Buscamos la URL secreta
-            url_webhook = st.secrets["APPS_SCRIPT_WEBAPP_URL"]
+            btn_guardar = st.form_submit_button("💾 Guardar Mantenimiento")
             
-            # Mostramos un mensajito mientras carga
-            with st.spinner("Enviando a Google Sheets..."):
-                # El "cartero" (requests) envía el paquete
-                respuesta = requests.post(url_webhook, json=datos_a_enviar)
+            if btn_guardar:
+                datos_a_enviar = {
+                    "tipo": tipo,
+                    "vehiculo": vehiculo,
+                    "plan": plan,
+                    "tarea": tarea,
+                    "estado": estado
+                }
                 
-                # Revisamos si llegó bien
-                if respuesta.status_code == 200:
-                    st.success("✅ ¡Registro guardado con éxito en tu Google Sheets!")
-                else:
-                    st.error("❌ Hubo un problema al enviar los datos.")
+                url_webhook = st.secrets["APPS_SCRIPT_WEBAPP_URL"]
+                
+                with st.spinner("Enviando a Google Sheets y actualizando..."):
+                    respuesta = requests.post(url_webhook, json=datos_a_enviar)
+                    
+                    if respuesta.status_code == 200:
+                        st.success("✅ ¡Guardado con éxito!")
+                        st.info("🔄 Refresca la página web en un momento para ver la tabla actualizada.")
+                    else:
+                        st.error("❌ Hubo un problema al enviar los datos.")
