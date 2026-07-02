@@ -1,0 +1,783 @@
+Tipo,Veh/Maq,Plan,Tarea/Documento,Estado
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Engrase General Obligatorio,Excedido en 5644 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Control De Neumáticos,Excedido en 12264 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Gancho de Arrastre - Plato,Excedido en 5856 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Ajustes de Tacómetro,Excedido en 5856 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Control de Suspension,Excedido en 5856 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Control de Frenos,Excedido en 9264 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Baterías (Control y Rotación),Excedido en 11146 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Alineado y Balanceado (Control),Restan 6144 Km para el Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Aire,Excedido en 1146 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Combustible,Excedido en 1146 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Cambio De Aceite,Excedido en 1146 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Control De Filtro De Habitáculo,Restan 10561 Km para el Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Aceite,Excedido en 1146 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Cambio filtro combustible trampa de agua,Excedido en 1146 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Cambio Filtro Secador,Excedido en 1146 Km del Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Control General de Luces,Restan 10561 Km para el Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Control de EJES,Restan 32736 Km para el Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Control Adblue,Restan 111398 Km para el Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Control de Correa de Accesorios (POLI V),Restan 222736 Km para el Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Control Climatic,Restan 311398 Km para el Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Control Bomba de Agua,Restan 772736 Km para el Parametro Critico
+Mantenimiento,T15 | AA831MG,PLAN SCANIA G310-R410-R460-R500,Control Líquido Refrigerante,Restan 772736 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Engrase General Obligatorio,Restan 9625 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Control De Neumáticos,Restan 14625 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Gancho de Arrastre - Plato,Restan 2417 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Ajustes de Tacómetro,Restan 2417 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Control de Suspension,Restan 17625 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Control de Frenos,Restan 17625 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio de Filtro de Aire,Restan 14417 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio de Filtro de Combustible,Restan 14417 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Baterías (Control y Rotación),Restan 4328 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Alineado y Balanceado (Control),Excedido en 17976 Km del Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio De Aceite,Restan 14417 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Control De Filtro De Habitáculo,Excedido en 19028 Km del Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio de Filtro de Aceite,Restan 14417 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio filtro combustible trampa de agua,Restan 14417 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio Filtro Secador,Excedido en 88932 Km del Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Control General de Luces,Restan 29625 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Control de EJES,Restan 12024 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Control Adblue,Restan 81068 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Control de Correa de Accesorios (POLI V),Restan 131068 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Embrague (Scaneo),Restan 281068 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio De Aceite Caja Y Diferencial,Restan 281068 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Control Climatic,Restan 281068 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,EJES (Reemplazo de Grasa),Restan 481068 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Control Bomba de Agua,Restan 681068 Km para el Parametro Critico
+Mantenimiento,T2 | AB159TK,PLAN VOLVO FM330-FM380-FH440-VM330,Control Líquido Refrigerante,Restan 774328 Km para el Parametro Critico
+Mantenimiento,S5 | AC932AW,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S5 | AC932AW,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S5 | AC932AW,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S5 | AC932AW,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S5 | AC932AW,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S5 | AC932AW,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 15000 Km para el Parametro Critico
+Mantenimiento,S5 | AC932AW,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 60000 Km para el Parametro Critico
+Mantenimiento,S5 | AC932AW,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 578185 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Engrase General Obligatorio,Restan 6846 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Control De Neumáticos,Restan 11846 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Gancho de Arrastre - Plato,Excedido en 7658 Km del Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Ajustes de Tacómetro,Restan 9544 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Control de Suspension,Excedido en 7658 Km del Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Control de Frenos,Restan 9544 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio de Filtro de Aire,Restan 10070 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio de Filtro de Combustible,Restan 10070 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Baterías (Control y Rotación),Restan 10572 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio De Aceite,Restan 10070 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Control De Filtro De Habitáculo,Restan 15357 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio de Filtro de Aceite,Restan 10070 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio filtro combustible trampa de agua,Restan 10070 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio Filtro Secador,Excedido en 98854 Km del Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Control General de Luces,Restan 26846 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Control de EJES,Restan 16689 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Control de Correa de Accesorios (POLI V),Restan 170997 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Control Bomba de Agua,Restan 720997 Km para el Parametro Critico
+Mantenimiento,T7 | AD237PY,PLAN VOLVO FM330-FM380-FH440-VM330,Control Líquido Refrigerante,Restan 756689 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Engrase General Obligatorio,Excedido en 6847 Km del Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Control De Neumáticos,Excedido en 1847 Km del Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Gancho de Arrastre - Plato,Restan 1153 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Ajustes de Tacómetro,Restan 1153 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Control de Suspension,Restan 1153 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Control de Frenos,Restan 1153 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio de Filtro de Aire,Restan 13153 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio de Filtro de Combustible,Restan 13153 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Baterías (Control y Rotación),Restan 13153 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio De Aceite,Restan 13153 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Control De Filtro De Habitáculo,Restan 13153 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio de Filtro de Aceite,Restan 13153 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio filtro combustible trampa de agua,Restan 13153 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Cambio Filtro Secador,Excedido en 59401 Km del Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Control General de Luces,Excedido en 3965 Km del Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Control de EJES,Restan 12839 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Control de Correa de Accesorios (POLI V),Restan 202838 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Control Bomba de Agua,Restan 752838 Km para el Parametro Critico
+Mantenimiento,T8 | AD751NF,PLAN VOLVO FM330-FM380-FH440-VM330,Control Líquido Refrigerante,Restan 766035 Km para el Parametro Critico
+Mantenimiento,S9 | AD967AK,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 53710 Km para el Parametro Critico
+Mantenimiento,S9 | AD967AK,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 53710 Km para el Parametro Critico
+Mantenimiento,S9 | AD967AK,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 53710 Km para el Parametro Critico
+Mantenimiento,S9 | AD967AK,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 53710 Km para el Parametro Critico
+Mantenimiento,S9 | AD967AK,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 53710 Km para el Parametro Critico
+Mantenimiento,S9 | AD967AK,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 6544 Km para el Parametro Critico
+Mantenimiento,S9 | AD967AK,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 103710 Km para el Parametro Critico
+Mantenimiento,S9 | AD967AK,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 498133 Km para el Parametro Critico
+Mantenimiento,S12 | AE099ZL,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 357648 Km para el Parametro Critico
+Mantenimiento,S12 | AE099ZL,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 357648 Km para el Parametro Critico
+Mantenimiento,S12 | AE099ZL,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 357648 Km para el Parametro Critico
+Mantenimiento,S12 | AE099ZL,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 357648 Km para el Parametro Critico
+Mantenimiento,S12 | AE099ZL,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 362648 Km para el Parametro Critico
+Mantenimiento,S12 | AE099ZL,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 407648 Km para el Parametro Critico
+Mantenimiento,S13 | AE129WZ,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 15 Km para el Parametro Critico
+Mantenimiento,S13 | AE129WZ,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 15 Km para el Parametro Critico
+Mantenimiento,S13 | AE129WZ,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 15 Km para el Parametro Critico
+Mantenimiento,S13 | AE129WZ,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 15 Km para el Parametro Critico
+Mantenimiento,S13 | AE129WZ,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 15 Km para el Parametro Critico
+Mantenimiento,S13 | AE129WZ,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 5015 Km para el Parametro Critico
+Mantenimiento,S13 | AE129WZ,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 50015 Km para el Parametro Critico
+Mantenimiento,S13 | AE129WZ,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 590015 Km para el Parametro Critico
+Mantenimiento,S7 | AE219VE,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 7517 Km para el Parametro Critico
+Mantenimiento,S7 | AE219VE,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Excedido en 4862 Km del Parametro Critico
+Mantenimiento,S7 | AE219VE,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Excedido en 4862 Km del Parametro Critico
+Mantenimiento,S7 | AE219VE,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 12517 Km para el Parametro Critico
+Mantenimiento,S7 | AE219VE,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 45138 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Engrase General Obligatorio,Restan 3140 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Control De Neumáticos,Restan 8140 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Ajustes de Tacómetro,Restan 9955 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Control de Suspension,Restan 9955 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Control de Frenos,Restan 11140 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Baterías (Control y Rotación),Restan 21955 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Cambio de Filtro de Aire,Restan 347 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Cambio de Filtro de Combustible,Restan 347 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Cambio De Aceite,Restan 347 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Control De Filtro De Habitáculo,Restan 347 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Cambio de Filtro de Aceite,Restan 347 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Cambio filtro combustible trampa de agua,Restan 347 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Cambio Filtro Secador,Restan 347 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Control General de Luces,Restan 33140 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Control de EJES,Restan 20347 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Control Bomba de Agua,Restan 760347 Km para el Parametro Critico
+Mantenimiento,T6 | AE219VG,PLAN VOLKSWAGEN 17280LR,Control Líquido Refrigerante,Restan 760347 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Engrase General Obligatorio,Restan 10000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Control De Neumáticos,Restan 15000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Ajustes de Tacómetro,Restan 18000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Control de Suspension,Restan 18000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Control de Frenos,Restan 18000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Baterías (Control y Rotación),Restan 30000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Cambio de Filtro de Aire,Restan 40000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Cambio de Filtro de Combustible,Restan 40000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Cambio De Aceite,Restan 40000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Control De Filtro De Habitáculo,Restan 40000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Cambio de Filtro de Aceite,Restan 40000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Cambio filtro combustible trampa de agua,Restan 40000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Cambio Filtro Secador,Restan 40000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Control General de Luces,Restan 40000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Control de EJES,Restan 60000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Control de Correa de Accesorios (POLI V),Restan 250000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Control Climatic,Restan 400000 Km para el Parametro Critico
+Mantenimiento,T9 | AE280BQ,PLAN VOLKSWAGEN 17280LR,Control Líquido Refrigerante,Restan 800000 Km para el Parametro Critico
+Mantenimiento,S8 | AE289HA,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 1927 Km para el Parametro Critico
+Mantenimiento,S8 | AE289HA,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Excedido en 8642 Km del Parametro Critico
+Mantenimiento,S8 | AE289HA,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Excedido en 8642 Km del Parametro Critico
+Mantenimiento,S8 | AE289HA,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Excedido en 8642 Km del Parametro Critico
+Mantenimiento,S8 | AE289HA,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Excedido en 14151 Km del Parametro Critico
+Mantenimiento,S8 | AE289HA,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 6927 Km para el Parametro Critico
+Mantenimiento,S8 | AE289HA,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 41358 Km para el Parametro Critico
+Mantenimiento,S8 | AE289HA,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 547611 Km para el Parametro Critico
+Mantenimiento,A2 | AE289HV,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 9712 Km para el Parametro Critico
+Mantenimiento,A2 | AE289HV,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 407849 Km para el Parametro Critico
+Mantenimiento,A2 | AE289HV,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 9712 Km para el Parametro Critico
+Mantenimiento,A2 | AE289HV,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 9712 Km para el Parametro Critico
+Mantenimiento,A2 | AE289HV,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 14712 Km para el Parametro Critico
+Mantenimiento,A2 | AE289HV,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 54453 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Engrase General Obligatorio,Restan 9712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Control De Neumáticos,Restan 14712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Gancho de Arrastre - Plato,Restan 17712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Ajustes de Tacómetro,Restan 17712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Control de Suspension,Restan 3130 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Control de Frenos,Restan 3130 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Baterías (Control y Rotación),Restan 29712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Alineado y Balanceado (Control),Excedido en 4185 Km del Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Control De Filtro De Habitáculo,Restan 29712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Cambio de Filtro de Aire,Restan 39712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Cambio de Filtro de Combustible,Restan 39712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Cambio De Aceite,Restan 39712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Cambio de Filtro de Aceite,Restan 39712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Cambio filtro combustible trampa de agua,Restan 39712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Cambio Filtro Secador,Restan 39712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Control General de Luces,Restan 39712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Control de EJES,Restan 25815 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Control Adblue,Restan 115574 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Control de Correa de Accesorios (POLI V),Restan 249712 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Embrague (Scaneo),Restan 315574 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Cambio De Aceite Caja Y Diferencial,Restan 315574 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Control Climatic,Restan 315574 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,EJES (Reemplazo de Grasa),Restan 515574 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Control Bomba de Agua,Restan 715574 Km para el Parametro Critico
+Mantenimiento,C2 | AE296KI,PLAN VOLVO FH420-FM370,Control Líquido Refrigerante,Restan 765815 Km para el Parametro Critico
+Mantenimiento,S6 | AE482SO,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 4544 Km para el Parametro Critico
+Mantenimiento,S6 | AE482SO,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 4544 Km para el Parametro Critico
+Mantenimiento,S6 | AE482SO,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Excedido en 13836 Km del Parametro Critico
+Mantenimiento,S6 | AE482SO,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 4544 Km para el Parametro Critico
+Mantenimiento,S6 | AE482SO,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 4544 Km para el Parametro Critico
+Mantenimiento,S6 | AE482SO,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 9544 Km para el Parametro Critico
+Mantenimiento,S6 | AE482SO,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 36164 Km para el Parametro Critico
+Mantenimiento,S6 | AE482SO,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 500165 Km para el Parametro Critico
+Mantenimiento,S11 | AE895JL,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Excedido en 11364 Km del Parametro Critico
+Mantenimiento,S11 | AE895JL,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Excedido en 11364 Km del Parametro Critico
+Mantenimiento,S11 | AE895JL,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Excedido en 11364 Km del Parametro Critico
+Mantenimiento,S11 | AE895JL,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Excedido en 11364 Km del Parametro Critico
+Mantenimiento,S11 | AE895JL,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Excedido en 11364 Km del Parametro Critico
+Mantenimiento,S11 | AE895JL,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Excedido en 6364 Km del Parametro Critico
+Mantenimiento,S11 | AE895JL,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 30762 Km para el Parametro Critico
+Mantenimiento,S11 | AE895JL,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 498607 Km para el Parametro Critico
+Mantenimiento,S10 | AF074SD,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S10 | AF074SD,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S10 | AF074SD,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S10 | AF074SD,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S10 | AF074SD,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S10 | AF074SD,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 15000 Km para el Parametro Critico
+Mantenimiento,S10 | AF074SD,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 47328 Km para el Parametro Critico
+Mantenimiento,S10 | AF074SD,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 513315 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Engrase General Obligatorio,Restan 5659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Control De Neumáticos,Restan 10659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Gancho de Arrastre - Plato,Restan 13659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Ajustes de Tacómetro,Restan 13659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Control de Suspension,Restan 13659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Control de Frenos,Restan 13659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Baterías (Control y Rotación),Restan 25659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Control De Filtro De Habitáculo,Restan 25659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Cambio de Filtro de Aire,Restan 35659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Cambio de Filtro de Combustible,Restan 35659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Cambio De Aceite,Restan 35659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Cambio de Filtro de Aceite,Restan 35659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Cambio filtro combustible trampa de agua,Restan 35659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Cambio Filtro Secador,Restan 35659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Control General de Luces,Restan 37115 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Control de EJES,Restan 55659 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Control Adblue,Restan 23982 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Control de Correa de Accesorios (POLI V),Restan 141066 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Embrague (Scaneo),Restan 223982 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Control Climatic,Restan 306194 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,EJES (Reemplazo de Grasa),Restan 423982 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Control Bomba de Agua,Restan 691066 Km para el Parametro Critico
+Mantenimiento,T12 | AF087FB,PLAN VOLVO FH420-FM370,Control Líquido Refrigerante,Restan 751489 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Engrase General Obligatorio,Restan 6420 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Control De Neumáticos,Restan 11421 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Gancho de Arrastre - Plato,Restan 14420 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Ajustes de Tacómetro,Restan 14420 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Control de Suspension,Restan 14421 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Control de Frenos,Restan 14420 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Baterías (Control y Rotación),Restan 26421 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Control De Filtro De Habitáculo,Excedido en 8933 Km del Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Cambio de Filtro de Aire,Restan 1067 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Cambio de Filtro de Combustible,Restan 1067 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Cambio De Aceite,Restan 1067 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Cambio de Filtro de Aceite,Restan 1067 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Cambio filtro combustible trampa de agua,Restan 1067 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Control General de Luces,Restan 36420 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Control de EJES,Restan 21067 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Control Adblue,Restan 80611 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Control de Correa de Accesorios (POLI V),Restan 130611 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Embrague (Scaneo),Restan 280611 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Control Climatic,Restan 280611 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,EJES (Reemplazo de Grasa),Restan 480611 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Control Bomba de Agua,Restan 761067 Km para el Parametro Critico
+Mantenimiento,T13 | AF206YP,PLAN VOLVO FH420-FM370,Control Líquido Refrigerante,Restan 680611 Km para el Parametro Critico
+Mantenimiento,S14 | AF262MW,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 2441 Km para el Parametro Critico
+Mantenimiento,S14 | AF262MW,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 2441 Km para el Parametro Critico
+Mantenimiento,S14 | AF262MW,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 2441 Km para el Parametro Critico
+Mantenimiento,S14 | AF262MW,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 7441 Km para el Parametro Critico
+Mantenimiento,S14 | AF262MW,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 52441 Km para el Parametro Critico
+Mantenimiento,S14 | AF262MW,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 592441 Km para el Parametro Critico
+Mantenimiento,S15 | AF550IG,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 852 Km para el Parametro Critico
+Mantenimiento,S15 | AF550IG,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 852 Km para el Parametro Critico
+Mantenimiento,S15 | AF550IG,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 852 Km para el Parametro Critico
+Mantenimiento,S15 | AF550IG,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 852 Km para el Parametro Critico
+Mantenimiento,S15 | AF550IG,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 852 Km para el Parametro Critico
+Mantenimiento,S15 | AF550IG,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 5852 Km para el Parametro Critico
+Mantenimiento,S15 | AF550IG,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 18265 Km para el Parametro Critico
+Mantenimiento,S15 | AF550IG,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 558265 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Engrase General Obligatorio,Restan 2150 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Control De Neumáticos,Restan 10633 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Gancho de Arrastre - Plato,Excedido en 8446 Km del Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Ajustes de Tacómetro,Restan 13633 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Control de Suspension,Restan 2938 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Control de Frenos,Restan 2938 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Cambio de Filtro de Aire,Restan 22150 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Cambio de Filtro de Combustible,Restan 22150 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Baterías (Control y Rotación),Excedido en 10386 Km del Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Alineado y Balanceado (Control),Excedido en 71156 Km del Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Cambio De Aceite,Restan 22150 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Control De Filtro De Habitáculo,Excedido en 10386 Km del Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Cambio de Filtro de Aceite,Restan 22150 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Cambio filtro combustible trampa de agua,Restan 22150 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Cambio Filtro Secador,Restan 22150 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Control General de Luces,Restan 3554 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Control de EJES,Restan 40146 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Control Adblue,Restan 89896 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Control de Correa de Accesorios (POLI V),Restan 209614 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Embrague (Scaneo),Restan 289896 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Control Climatic,Restan 289896 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,EJES (Reemplazo de Grasa),Restan 489896 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Control Bomba de Agua,Restan 759614 Km para el Parametro Critico
+Mantenimiento,T14 | AF482AS,PLAN IVECO 440-460,Control Líquido Refrigerante,Restan 792150 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Engrase General Obligatorio,Restan 3047 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Control De Neumáticos,Restan 8047 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Gancho de Arrastre - Plato,Restan 11047 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Ajustes de Tacómetro,Restan 11642 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Control de Suspension,Restan 11047 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Control de Frenos,Restan 11047 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Baterías (Control y Rotación),Restan 5240 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Control De Filtro De Habitáculo,Restan 5240 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Cambio de Filtro de Aire,Restan 15240 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Cambio de Filtro de Combustible,Restan 15240 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Cambio De Aceite,Restan 15240 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Cambio de Filtro de Aceite,Restan 15240 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Cambio filtro combustible trampa de agua,Restan 15240 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Control General de Luces,Restan 33047 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Control de Correa de Accesorios (POLI V),Restan 243047 Km para el Parametro Critico
+Mantenimiento,T16 | AF713FD,PLAN VOLVO FH420-FM370,Control Líquido Refrigerante,Restan 793047 Km para el Parametro Critico
+Mantenimiento,S16 | AF733GV,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 5633 Km para el Parametro Critico
+Mantenimiento,S16 | AF733GV,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 5633 Km para el Parametro Critico
+Mantenimiento,S16 | AF733GV,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Excedido en 9854 Km del Parametro Critico
+Mantenimiento,S16 | AF733GV,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 5633 Km para el Parametro Critico
+Mantenimiento,S16 | AF733GV,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 5633 Km para el Parametro Critico
+Mantenimiento,S16 | AF733GV,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 10633 Km para el Parametro Critico
+Mantenimiento,S16 | AF733GV,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 40146 Km para el Parametro Critico
+Mantenimiento,S16 | AF733GV,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 507586 Km para el Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Engrase General Obligatorio,Excedido en 11364 Km del Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Control De Neumáticos,Excedido en 14235 Km del Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Gancho de Arrastre - Plato,Excedido en 7867 Km del Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Ajustes de Tacómetro,Excedido en 7867 Km del Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Control de Suspension,Excedido en 7867 Km del Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Control de Frenos,Excedido en 3364 Km del Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Cambio de Filtro de Aire,Restan 4133 Km para el Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Cambio de Filtro de Combustible,Restan 4133 Km para el Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Baterías (Control y Rotación),Restan 4133 Km para el Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Cambio De Aceite,Restan 4133 Km para el Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Control De Filtro De Habitáculo,Restan 4133 Km para el Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Cambio de Filtro de Aceite,Restan 4133 Km para el Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Cambio filtro combustible trampa de agua,Restan 4133 Km para el Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Cambio Filtro Secador,Restan 4133 Km para el Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Control General de Luces,Restan 4133 Km para el Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Control de Correa de Accesorios (POLI V),Restan 224133 Km para el Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Control Bomba de Agua,Restan 740383 Km para el Parametro Critico
+Mantenimiento,T17 | AF969YW,PLAN IVECO 440-460,Control Líquido Refrigerante,Restan 770762 Km para el Parametro Critico
+Mantenimiento,S17 | AF996UM,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 2506 Km para el Parametro Critico
+Mantenimiento,S17 | AF996UM,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 2506 Km para el Parametro Critico
+Mantenimiento,S17 | AF996UM,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 2506 Km para el Parametro Critico
+Mantenimiento,S17 | AF996UM,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 2506 Km para el Parametro Critico
+Mantenimiento,S17 | AF996UM,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 2506 Km para el Parametro Critico
+Mantenimiento,S17 | AF996UM,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 7506 Km para el Parametro Critico
+Mantenimiento,S17 | AF996UM,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 19526 Km para el Parametro Critico
+Mantenimiento,S17 | AF996UM,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 497519 Km para el Parametro Critico
+Mantenimiento,S18 | AG047MB,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 198253 Km para el Parametro Critico
+Mantenimiento,S18 | AG047MB,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 198253 Km para el Parametro Critico
+Mantenimiento,S18 | AG047MB,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Excedido en 5644 Km del Parametro Critico
+Mantenimiento,S18 | AG047MB,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 198253 Km para el Parametro Critico
+Mantenimiento,S18 | AG047MB,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 198253 Km para el Parametro Critico
+Mantenimiento,S18 | AG047MB,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 203253 Km para el Parametro Critico
+Mantenimiento,S18 | AG047MB,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 36144 Km para el Parametro Critico
+Mantenimiento,S18 | AG047MB,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 486688 Km para el Parametro Critico
+Mantenimiento,S19 | AG588UR,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 980466 Km para el Parametro Critico
+Mantenimiento,S19 | AG588UR,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 980466 Km para el Parametro Critico
+Mantenimiento,S19 | AG588UR,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 980466 Km para el Parametro Critico
+Mantenimiento,S19 | AG588UR,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 980466 Km para el Parametro Critico
+Mantenimiento,S19 | AG588UR,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 985466 Km para el Parametro Critico
+Mantenimiento,S20 | AG807KF,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 9244 Km para el Parametro Critico
+Mantenimiento,S20 | AG807KF,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 9244 Km para el Parametro Critico
+Mantenimiento,S20 | AG807KF,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 9244 Km para el Parametro Critico
+Mantenimiento,S20 | AG807KF,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 9244 Km para el Parametro Critico
+Mantenimiento,S20 | AG807KF,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 9244 Km para el Parametro Critico
+Mantenimiento,S20 | AG807KF,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 14244 Km para el Parametro Critico
+Mantenimiento,S20 | AG807KF,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 35777 Km para el Parametro Critico
+Mantenimiento,S20 | AG807KF,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 495540 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Engrase General Obligatorio,Restan 9244 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Control De Neumáticos,Restan 14244 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Gancho de Arrastre - Plato,Restan 17244 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Ajustes de Tacómetro,Restan 17244 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Control de Suspension,Excedido en 291 Km del Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Control de Frenos,Excedido en 291 Km del Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Baterías (Control y Rotación),Restan 11709 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Aire,Restan 5142 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Combustible,Restan 5142 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Cambio De Aceite,Restan 5142 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Control De Filtro De Habitáculo,Restan 5142 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Aceite,Restan 5142 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Cambio filtro combustible trampa de agua,Restan 5142 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Cambio Filtro Secador,Excedido en 88586 Km del Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Control General de Luces,Restan 21709 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Control de EJES,Restan 42851 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Control de Correa de Accesorios (POLI V),Restan 172654 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Control Bomba de Agua,Restan 722654 Km para el Parametro Critico
+Mantenimiento,T20 | AG807KZ,PLAN SCANIA G310-R410-R460-R500,Control Líquido Refrigerante,Restan 781709 Km para el Parametro Critico
+Mantenimiento,S21 | AG852PB,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 3868 Km para el Parametro Critico
+Mantenimiento,S21 | AG852PB,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 3868 Km para el Parametro Critico
+Mantenimiento,S21 | AG852PB,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 7697 Km para el Parametro Critico
+Mantenimiento,S21 | AG852PB,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 3868 Km para el Parametro Critico
+Mantenimiento,S21 | AG852PB,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 3868 Km para el Parametro Critico
+Mantenimiento,S21 | AG852PB,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 8868 Km para el Parametro Critico
+Mantenimiento,S21 | AG852PB,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 23188 Km para el Parametro Critico
+Mantenimiento,S21 | AG852PB,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 492619 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Engrase General Obligatorio,Restan 3868 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Control De Neumáticos,Excedido en 9207 Km del Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Gancho de Arrastre - Plato,Excedido en 19364 Km del Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Ajustes de Tacómetro,Restan 11868 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Control de Suspension,Restan 11868 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Control de Frenos,Restan 11868 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Baterías (Control y Rotación),Excedido en 22862 Km del Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Alineado y Balanceado (Control),Restan 5793 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Control De Filtro De Habitáculo,Excedido en 342 Km del Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Cambio de Filtro de Aire,Restan 9658 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Cambio de Filtro de Combustible,Restan 9658 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Cambio De Aceite,Restan 9658 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Cambio de Filtro de Aceite,Restan 9658 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Cambio filtro combustible trampa de agua,Restan 9658 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Cambio Filtro Secador,Excedido en 78125 Km del Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Control General de Luces,Restan 9658 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Control de EJES,Excedido en 11583 Km del Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Control Adblue,Restan 81875 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Control de Correa de Accesorios (POLI V),Restan 131875 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Embrague (Scaneo),Restan 281875 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Control Climatic,Restan 281875 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Control Bomba de Agua,Restan 681875 Km para el Parametro Critico
+Mantenimiento,T21 | AH062LG,PLAN VOLVO FH420-FM370,Control Líquido Refrigerante,Restan 769658 Km para el Parametro Critico
+Mantenimiento,S22 | AH191HA,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 221474 Km para el Parametro Critico
+Mantenimiento,S22 | AH191HA,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 221474 Km para el Parametro Critico
+Mantenimiento,S22 | AH191HA,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 221474 Km para el Parametro Critico
+Mantenimiento,S22 | AH191HA,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 221474 Km para el Parametro Critico
+Mantenimiento,S22 | AH191HA,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 221474 Km para el Parametro Critico
+Mantenimiento,S22 | AH191HA,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 226474 Km para el Parametro Critico
+Mantenimiento,S22 | AH191HA,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 35240 Km para el Parametro Critico
+Mantenimiento,S22 | AH191HA,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 503368 Km para el Parametro Critico
+Mantenimiento,B1 | AH246JT,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 367768 Km para el Parametro Critico
+Mantenimiento,B1 | AH246JT,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 367768 Km para el Parametro Critico
+Mantenimiento,B1 | AH246JT,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 367768 Km para el Parametro Critico
+Mantenimiento,B1 | AH246JT,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 367768 Km para el Parametro Critico
+Mantenimiento,B1 | AH246JT,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 367768 Km para el Parametro Critico
+Mantenimiento,B1 | AH246JT,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 372768 Km para el Parametro Critico
+Mantenimiento,B1 | AH246JT,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 417768 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Engrase General Obligatorio,Excedido en 1726 Km del Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Control De Neumáticos,Excedido en 6673 Km del Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Gancho de Arrastre - Plato,Excedido en 3673 Km del Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Ajustes de Tacómetro,Excedido en 3673 Km del Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Control de Suspension,Excedido en 3673 Km del Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Control de Frenos,Excedido en 3673 Km del Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Baterías (Control y Rotación),Restan 18274 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Alineado y Balanceado (Control),Excedido en 11351 Km del Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Aire,Restan 28274 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Combustible,Restan 28274 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Cambio De Aceite,Restan 28274 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Control De Filtro De Habitáculo,Restan 28274 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Aceite,Restan 28274 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Cambio filtro combustible trampa de agua,Restan 28274 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Cambio Filtro Secador,Restan 28274 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Control General de Luces,Excedido en 4551 Km del Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Control de EJES,Restan 38327 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Control de Correa de Accesorios (POLI V),Restan 153032 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Control Climatic,Restan 303050 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Control Bomba de Agua,Restan 703032 Km para el Parametro Critico
+Mantenimiento,T22 | AH246JP,PLAN SCANIA G310-R410-R460-R500,Control Líquido Refrigerante,Restan 704815 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Engrase General Obligatorio,Excedido en 2971 Km del Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Control De Neumáticos,Restan 10933 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Gancho de Arrastre - Plato,Restan 13933 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Ajustes de Tacómetro,Restan 13933 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Control de Suspension,Excedido en 7490 Km del Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Control de Frenos,Restan 13933 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Baterías (Control y Rotación),Restan 13654 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Alineado y Balanceado (Control),Excedido en 21698 Km del Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Aire,Excedido en 11315 Km del Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Combustible,Excedido en 2542 Km del Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Cambio De Aceite,Excedido en 11315 Km del Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Control De Filtro De Habitáculo,Excedido en 11315 Km del Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Aceite,Excedido en 11315 Km del Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Cambio filtro combustible trampa de agua,Excedido en 11315 Km del Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Cambio Filtro Secador,Excedido en 56296 Km del Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Control General de Luces,Restan 35933 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Control de EJES,Restan 8685 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Control Adblue,Restan 148685 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Control de Correa de Accesorios (POLI V),Restan 198685 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Embrague (Scaneo),Restan 261694 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Control Climatic,Restan 261694 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,EJES (Reemplazo de Grasa),Restan 428391 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Control Bomba de Agua,Restan 748685 Km para el Parametro Critico
+Mantenimiento,T23 | AH299OI,PLAN SCANIA G310-R410-R460-R500,Control Líquido Refrigerante,Restan 748685 Km para el Parametro Critico
+Mantenimiento,S24 | AH400BC,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Excedido en 34136 Km del Parametro Critico
+Mantenimiento,S24 | AH400BC,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Excedido en 34136 Km del Parametro Critico
+Mantenimiento,S24 | AH400BC,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Excedido en 34136 Km del Parametro Critico
+Mantenimiento,S24 | AH400BC,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Excedido en 34136 Km del Parametro Critico
+Mantenimiento,S24 | AH400BC,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Excedido en 29136 Km del Parametro Critico
+Mantenimiento,S24 | AH400BC,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 1896 Km para el Parametro Critico
+Mantenimiento,S23 | AH400BE,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 9999 Km para el Parametro Critico
+Mantenimiento,S23 | AH400BE,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 9999 Km para el Parametro Critico
+Mantenimiento,S23 | AH400BE,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 9999 Km para el Parametro Critico
+Mantenimiento,S23 | AH400BE,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 9999 Km para el Parametro Critico
+Mantenimiento,S23 | AH400BE,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 8302 Km para el Parametro Critico
+Mantenimiento,B2 | AH492CR,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 670583 Km para el Parametro Critico
+Mantenimiento,B2 | AH492CR,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 670583 Km para el Parametro Critico
+Mantenimiento,B2 | AH492CR,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 670583 Km para el Parametro Critico
+Mantenimiento,B2 | AH492CR,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 670583 Km para el Parametro Critico
+Mantenimiento,B2 | AH492CR,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 670583 Km para el Parametro Critico
+Mantenimiento,B2 | AH492CR,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 675583 Km para el Parametro Critico
+Mantenimiento,B2 | AH492CR,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 720583 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Engrase General Obligatorio,Restan 1078 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Control De Neumáticos,Restan 6078 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Gancho de Arrastre - Plato,Restan 7267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Ajustes de Tacómetro,Restan 7267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Control de Suspension,Restan 7267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Control de Frenos,Restan 7267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Baterías (Control y Rotación),Restan 19267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Alineado y Balanceado (Control),Restan 19267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Aire,Restan 29267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Combustible,Restan 29267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Cambio De Aceite,Restan 29267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Control De Filtro De Habitáculo,Restan 29267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Aceite,Excedido en 18104 Km del Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Cambio filtro combustible trampa de agua,Restan 29267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Cambio Filtro Secador,Restan 29267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Control General de Luces,Restan 29267 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Control de EJES,Restan 1896 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Control Adblue,Restan 141896 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Control de Correa de Accesorios (POLI V),Restan 191896 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Embrague (Scaneo),Restan 341896 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Control Climatic,Restan 299589 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Control Bomba de Agua,Restan 741896 Km para el Parametro Critico
+Mantenimiento,T24 | AH492CW,PLAN SCANIA G310-R410-R460-R500,Control Líquido Refrigerante,Restan 741896 Km para el Parametro Critico
+Mantenimiento,S1 | HPG716,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 6488 Km para el Parametro Critico
+Mantenimiento,S1 | HPG716,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 6488 Km para el Parametro Critico
+Mantenimiento,S1 | HPG716,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 6488 Km para el Parametro Critico
+Mantenimiento,S1 | HPG716,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 6488 Km para el Parametro Critico
+Mantenimiento,S1 | HPG716,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 6488 Km para el Parametro Critico
+Mantenimiento,S1 | HPG716,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 770 Km para el Parametro Critico
+Mantenimiento,S1 | HPG716,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 56488 Km para el Parametro Critico
+Mantenimiento,S1 | HPG716,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 596488 Km para el Parametro Critico
+Mantenimiento,S2 | NCP232,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Excedido en 4636 Km del Parametro Critico
+Mantenimiento,S2 | NCP232,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Excedido en 4636 Km del Parametro Critico
+Mantenimiento,S2 | NCP232,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Excedido en 4636 Km del Parametro Critico
+Mantenimiento,S2 | NCP232,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Excedido en 4636 Km del Parametro Critico
+Mantenimiento,S2 | NCP232,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Excedido en 4636 Km del Parametro Critico
+Mantenimiento,S2 | NCP232,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Excedido en 10672 Km del Parametro Critico
+Mantenimiento,S2 | NCP232,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 10174 Km para el Parametro Critico
+Mantenimiento,S2 | NCP232,PLAN UNIDADES DE ARRASTRE,EJES (Reemplazo de Grasa),Restan 513991 Km para el Parametro Critico
+Mantenimiento,S3 | NXU365,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 9651 Km para el Parametro Critico
+Mantenimiento,S3 | NXU365,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 9651 Km para el Parametro Critico
+Mantenimiento,S3 | NXU365,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 4312 Km para el Parametro Critico
+Mantenimiento,S3 | NXU365,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 9651 Km para el Parametro Critico
+Mantenimiento,S3 | NXU365,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 4490 Km para el Parametro Critico
+Mantenimiento,S3 | NXU365,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 14651 Km para el Parametro Critico
+Mantenimiento,S3 | NXU365,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 59651 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Engrase General Obligatorio,Restan 9646 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Control De Neumáticos,Restan 14646 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Gancho de Arrastre - Plato,Restan 17646 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Ajustes de Tacómetro,Restan 17646 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Control de Suspension,Restan 12506 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Control de Frenos,Restan 17646 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Cambio de Filtro de Aire,Restan 12326 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Cambio de Filtro de Combustible,Restan 12326 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Baterías (Control y Rotación),Restan 12326 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Cambio De Aceite,Restan 12326 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Control De Filtro De Habitáculo,Restan 29611 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Cambio de Filtro de Aceite,Restan 12326 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Cambio filtro combustible trampa de agua,Restan 12326 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Cambio Filtro Secador,Excedido en 23123 Km del Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Control General de Luces,Restan 29646 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Control de EJES,Restan 25854 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Control Adblue,Restan 146877 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Control de Correa de Accesorios (POLI V),Restan 249646 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Embrague (Scaneo),Restan 346877 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Control Climatic,Restan 371225 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,EJES (Reemplazo de Grasa),Restan 546877 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Control Bomba de Agua,Restan 765854 Km para el Parametro Critico
+Mantenimiento,T1 | PMP580,PLAN FORD CARGO 1722-1729,Control Líquido Refrigerante,Restan 799646 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Engrase General Obligatorio,Restan 2946 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Control De Neumáticos,Restan 7946 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Gancho de Arrastre - Plato,Excedido en 2124 Km del Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Ajustes de Tacómetro,Restan 15552 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Control de Suspension,Restan 10946 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Control de Frenos,Restan 10946 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Alineado y Balanceado (Control),Excedido en 28819 Km del Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Cambio de Filtro de Aire,Restan 32946 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Cambio de Filtro de Combustible,Restan 32946 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Baterías (Control y Rotación),Restan 59 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Cambio De Aceite,Restan 32946 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Control De Filtro De Habitáculo,Restan 59 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Cambio de Filtro de Aceite,Restan 32946 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Cambio filtro combustible trampa de agua,Restan 32946 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Cambio Filtro Secador,Restan 32946 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Control General de Luces,Restan 32946 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Control de EJES,Restan 20059 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Control de Correa de Accesorios (POLI V),Restan 210059 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Embrague (Scaneo),Restan 227592 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,EJES (Reemplazo de Grasa),Restan 427592 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Control Bomba de Agua,Restan 760059 Km para el Parametro Critico
+Mantenimiento,T10 | AE468CL,PLAN MERCEDES BENZ AXOR,Control Líquido Refrigerante,Restan 792946 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Engrase General Obligatorio,Restan 4544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Control De Neumáticos,Restan 9544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Ajustes de Tacómetro,Restan 12544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Control de Suspension,Restan 12544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Control de Frenos,Restan 12544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Cambio de Filtro de Aire,Restan 34544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Cambio de Filtro de Combustible,Restan 34544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Baterías (Control y Rotación),Restan 34544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Cambio De Aceite,Restan 34544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Control De Filtro De Habitáculo,Excedido en 8701 Km del Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Cambio de Filtro de Aceite,Restan 34544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Cambio filtro combustible trampa de agua,Restan 34544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Cambio Filtro Secador,Restan 34544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Control General de Luces,Restan 36365 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Control de EJES,Restan 54544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Control de Correa de Accesorios (POLI V),Restan 201299 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Embrague (Scaneo),Restan 271544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Climatic,Restan 331562 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,EJES (Reemplazo de Grasa),Restan 471544 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Control Bomba de Agua,Restan 751299 Km para el Parametro Critico
+Mantenimiento,T11 | AE828EP,PLAN MERCEDES BENZ AXOR,Control Líquido Refrigerante,Restan 776164 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Engrase General Obligatorio,Restan 1927 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Control De Neumáticos,Restan 12517 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Gancho de Arrastre - Plato,Restan 15517 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Ajustes de Tacómetro,Restan 15765 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Control de Suspension,Restan 15517 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Control de Frenos,Restan 15517 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Cambio de Filtro de Aire,Restan 3175 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Cambio de Filtro de Combustible,Restan 3175 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Baterías (Control y Rotación),Restan 3175 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Cambio De Aceite,Restan 3175 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Control De Filtro De Habitáculo,Restan 21927 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Cambio de Filtro de Aceite,Restan 3175 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Cambio filtro combustible trampa de agua,Restan 3175 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Cambio Filtro Secador,Restan 3175 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Control General de Luces,Restan 11358 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Control de EJES,Restan 33175 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Control de Correa de Accesorios (POLI V),Restan 223175 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Control Bomba de Agua,Restan 773175 Km para el Parametro Critico
+Mantenimiento,T18 | AG318SC,PLAN MERCEDES BENZ ATEGO,Control Líquido Refrigerante,Restan 773175 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Engrase General Obligatorio,Restan 10000 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Control De Neumáticos,Restan 15000 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Gancho de Arrastre - Plato,Restan 18000 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Ajustes de Tacómetro,Restan 18000 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Control de Suspension,Restan 18000 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Control de Frenos,Restan 18000 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Cambio de Filtro de Aire,Restan 39705 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Cambio de Filtro de Combustible,Restan 39705 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Baterías (Control y Rotación),Restan 30000 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Cambio De Aceite,Restan 39705 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Control De Filtro De Habitáculo,Restan 39705 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Cambio de Filtro de Aceite,Restan 39705 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Cambio filtro combustible trampa de agua,Restan 39705 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Cambio Filtro Secador,Restan 48701 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Control General de Luces,Restan 30000 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Control de Correa de Accesorios (POLI V),Restan 250000 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Control Bomba de Agua,Restan 800000 Km para el Parametro Critico
+Mantenimiento,T19 | AG318SU,PLAN MERCEDES BENZ ATEGO,Control Líquido Refrigerante,Restan 800000 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Engrase General Obligatorio,Restan 6780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Control De Neumáticos,Restan 11488 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Gancho de Arrastre - Plato,Restan 14488 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Ajustes de Tacómetro,Restan 14780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Control de Suspension,Restan 14780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Control de Frenos,Restan 14780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Cambio de Filtro de Aire,Restan 26780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Cambio de Filtro de Combustible,Restan 26780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Baterías (Control y Rotación),Restan 3063 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Alineado y Balanceado (Control),Restan 26488 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Cambio De Aceite,Restan 26780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Control De Filtro De Habitáculo,Restan 26780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Cambio de Filtro de Aceite,Restan 26780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Cambio filtro combustible trampa de agua,Restan 26780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Cambio Filtro Secador,Excedido en 33670 Km del Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Control General de Luces,Restan 26780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Control de EJES,Restan 56488 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Control Adblue,Restan 136330 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Control de Correa de Accesorios (POLI V),Restan 186330 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Embrague (Scaneo),Restan 336330 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Control Bomba de Agua,Restan 396780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Control Líquido Refrigerante,Restan 396780 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Cambio De Aceite Caja Y Diferencial,Restan 336330 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,Control Climatic,Restan 336330 Km para el Parametro Critico
+Mantenimiento,T5 | AC214WS,PLAN VOLVO AC214WS - PBZ608,EJES (Reemplazo de Grasa),Restan 536330 Km para el Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Engrase General Obligatorio,Excedido en 10076 Km del Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Control De Neumáticos,Excedido en 15765 Km del Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Gancho de Arrastre - Plato,Excedido en 2076 Km del Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Control de Suspension,Excedido en 2076 Km del Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Control de Frenos,Excedido en 2076 Km del Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Cambio de Filtro de Aire,Excedido en 765 Km del Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Cambio de Filtro de Combustible,Excedido en 765 Km del Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Baterías (Control y Rotación),Excedido en 765 Km del Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Cambio De Aceite,Excedido en 765 Km del Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Control De Filtro De Habitáculo,Excedido en 765 Km del Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Cambio de Filtro de Aceite,Excedido en 765 Km del Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Cambio filtro combustible trampa de agua,Excedido en 765 Km del Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Control General de Luces,Restan 9924 Km para el Parametro Critico
+Mantenimiento,T3 | PBZ608,PLAN VOLVO AC214WS - PBZ608,Control Líquido Refrigerante,Restan 379924 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Engrase General Obligatorio,Restan 10000 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Control De Neumáticos,Restan 15000 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Control de Suspension,Restan 18000 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Control de Frenos,Restan 18000 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Cambio de Filtro de Aire,Restan 30000 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Cambio de Filtro de Combustible,Restan 30000 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Cambio De Aceite,Restan 30000 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Cambio de Filtro de Aceite,Restan 30000 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Cambio filtro combustible trampa de agua,Restan 30000 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Control General de Luces,Restan 30000 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Control de Correa de Accesorios (POLI V),Restan 250000 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Control Bomba de Agua,Restan 800000 Km para el Parametro Critico
+Mantenimiento,C1 | NWR599,PLAN MERCEDES BENZ ATEGO,Control Líquido Refrigerante,Restan 800000 Km para el Parametro Critico
+Mantenimiento,B3 | AH668CL,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 2946 Km para el Parametro Critico
+Mantenimiento,B3 | AH668CL,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 2946 Km para el Parametro Critico
+Mantenimiento,B3 | AH668CL,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Excedido en 10124 Km del Parametro Critico
+Mantenimiento,B3 | AH668CL,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 2946 Km para el Parametro Critico
+Mantenimiento,B3 | AH668CL,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 2946 Km para el Parametro Critico
+Mantenimiento,B3 | AH668CL,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 7946 Km para el Parametro Critico
+Mantenimiento,B3 | AH668CL,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 20059 Km para el Parametro Critico
+Mantenimiento,S4 | AB249CK,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S4 | AB249CK,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S4 | AB249CK,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S4 | AB249CK,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S4 | AB249CK,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 10000 Km para el Parametro Critico
+Mantenimiento,S4 | AB249CK,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 15000 Km para el Parametro Critico
+Mantenimiento,S4 | AB249CK,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 60000 Km para el Parametro Critico
+Mantenimiento,B4 | AH669DS,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Excedido en 114936 Km del Parametro Critico
+Mantenimiento,B4 | AH669DS,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Excedido en 114936 Km del Parametro Critico
+Mantenimiento,B4 | AH669DS,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Excedido en 114936 Km del Parametro Critico
+Mantenimiento,B4 | AH669DS,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Excedido en 114936 Km del Parametro Critico
+Mantenimiento,B4 | AH669DS,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Excedido en 109936 Km del Parametro Critico
+Mantenimiento,B4 | AH669DS,PLAN UNIDADES DE ARRASTRE,Control de EJES,Excedido en 64936 Km del Parametro Critico
+Mantenimiento,B5 | AH889OU,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Excedido en 370 Km del Parametro Critico
+Mantenimiento,B5 | AH889OU,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Excedido en 370 Km del Parametro Critico
+Mantenimiento,B5 | AH889OU,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Excedido en 370 Km del Parametro Critico
+Mantenimiento,B5 | AH889OU,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Excedido en 370 Km del Parametro Critico
+Mantenimiento,B5 | AH889OU,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 4630 Km para el Parametro Critico
+Mantenimiento,B5 | AH889OU,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 29678 Km para el Parametro Critico
+Mantenimiento,B6 | AH920KP,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Excedido en 14873 Km del Parametro Critico
+Mantenimiento,B6 | AH920KP,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Excedido en 14873 Km del Parametro Critico
+Mantenimiento,B6 | AH920KP,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Excedido en 14873 Km del Parametro Critico
+Mantenimiento,B6 | AH920KP,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Excedido en 14873 Km del Parametro Critico
+Mantenimiento,B6 | AH920KP,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 6564 Km para el Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Engrase General Obligatorio,Restan 1564 Km para el Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Control De Neumáticos,Restan 6564 Km para el Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Gancho de Arrastre - Plato,Restan 9564 Km para el Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Ajustes de Tacómetro,Restan 9564 Km para el Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Control de Suspension,Restan 9564 Km para el Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Control de Frenos,Excedido en 6871 Km del Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Aire,Excedido en 46503 Km del Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Combustible,Excedido en 46503 Km del Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Control De Filtro De Habitáculo,Excedido en 46503 Km del Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Aceite,Excedido en 46503 Km del Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Cambio filtro combustible trampa de agua,Excedido en 46503 Km del Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Control General de Luces,Restan 14763 Km para el Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Control de EJES,Restan 32991 Km para el Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Control de Correa de Accesorios (POLI V),Restan 163497 Km para el Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Control Bomba de Agua,Restan 713497 Km para el Parametro Critico
+Mantenimiento,T25 | AH920LE,PLAN SCANIA G310-R410-R460-R500,Control Líquido Refrigerante,Restan 713497 Km para el Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Engrase General Obligatorio,Excedido en 16885 Km del Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Control De Neumáticos,Restan 4630 Km para el Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Gancho de Arrastre - Plato,Excedido en 8885 Km del Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Ajustes de Tacómetro,Excedido en 8885 Km del Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Control de Suspension,Excedido en 8885 Km del Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Control de Frenos,Excedido en 8885 Km del Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Cambio de Filtro de Combustible,Excedido en 49007 Km del Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Cambio filtro combustible trampa de agua,Excedido en 49007 Km del Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Control General de Luces,Restan 13115 Km para el Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Control de EJES,Restan 33115 Km para el Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Control Adblue,Restan 110993 Km para el Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Control de Correa de Accesorios (POLI V),Restan 160993 Km para el Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Control Climatic,Restan 310993 Km para el Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Control Bomba de Agua,Restan 710993 Km para el Parametro Critico
+Mantenimiento,T26 | AH920LF,PLAN SCANIA G310-R410-R460-R500,Control Líquido Refrigerante,Restan 710993 Km para el Parametro Critico
+Mantenimiento,T27 | AI063WC,PLAN SCANIA G310-R410-R460-R500,Engrase General Obligatorio,Restan 361 Km para el Parametro Critico
+Mantenimiento,T27 | AI063WC,PLAN SCANIA G310-R410-R460-R500,Control De Neumáticos,Restan 5361 Km para el Parametro Critico
+Mantenimiento,T27 | AI063WC,PLAN SCANIA G310-R410-R460-R500,Gancho de Arrastre - Plato,Excedido en 3515 Km del Parametro Critico
+Mantenimiento,T27 | AI063WC,PLAN SCANIA G310-R410-R460-R500,Control de Suspension,Excedido en 3515 Km del Parametro Critico
+Mantenimiento,T27 | AI063WC,PLAN SCANIA G310-R410-R460-R500,Control de Frenos,Excedido en 3515 Km del Parametro Critico
+Mantenimiento,T27 | AI063WC,PLAN SCANIA G310-R410-R460-R500,Control General de Luces,Restan 18485 Km para el Parametro Critico
+Mantenimiento,B7 | AI063WD,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 361 Km para el Parametro Critico
+Mantenimiento,B7 | AI063WD,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 361 Km para el Parametro Critico
+Mantenimiento,B7 | AI063WD,PLAN UNIDADES DE ARRASTRE,Perno Rey/Ojal - Lanza de Enganche,Restan 361 Km para el Parametro Critico
+Mantenimiento,B7 | AI063WD,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 361 Km para el Parametro Critico
+Mantenimiento,B7 | AI063WD,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 361 Km para el Parametro Critico
+Mantenimiento,B7 | AI063WD,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Excedido en 6515 Km del Parametro Critico
+Mantenimiento,B7 | AI063WD,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 17542 Km para el Parametro Critico
+Mantenimiento,A1 | NYH675,PLAN UNIDADES DE ARRASTRE,Engrase General Obligatorio,Restan 10000 Km para el Parametro Critico
+Mantenimiento,A1 | NYH675,PLAN UNIDADES DE ARRASTRE,Carrozados/Chasis,Restan 10000 Km para el Parametro Critico
+Mantenimiento,A1 | NYH675,PLAN UNIDADES DE ARRASTRE,Control de Suspension,Restan 10000 Km para el Parametro Critico
+Mantenimiento,A1 | NYH675,PLAN UNIDADES DE ARRASTRE,Control de Frenos,Restan 10000 Km para el Parametro Critico
+Mantenimiento,A1 | NYH675,PLAN UNIDADES DE ARRASTRE,Control De Neumáticos,Restan 15000 Km para el Parametro Critico
+Mantenimiento,A1 | NYH675,PLAN UNIDADES DE ARRASTRE,Control de EJES,Restan 60000 Km para el Parametro Critico
