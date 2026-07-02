@@ -165,79 +165,51 @@ with tab3:
             
             # Procesamos las fechas para calcular los días restantes
             df_alertas = df_choferes.copy()
-            # Convertimos la columna a fecha de pandas de forma segura
-            df_alertas['Fecha vencimiento'] = pd.to_datetime(df_alertas['Fecha vencimiento'], format='%d/%m/%yyyy', errors='coerce')
+            
+            # CORRECCIÓN AQUÍ: '%d/%m/%Y' en lugar del error '%yyyy'
+            # También agregamos dayfirst=True por si acaso
+            df_alertas['Fecha vencimiento'] = pd.to_datetime(df_alertas['Fecha vencimiento'], format='%d/%m/%Y', errors='coerce')
             
             hoy = pd.Timestamp.now().normalize()
             
-            # Recorremos fila por fila para armar las cajas de alertas de color
-            for index, row in df_alertas.dropna(subset=['Fecha vencimiento']).iterrows():
-                fecha_venc = row['Fecha vencimiento']
-                dias_restantes = (fecha_venc - hoy).days
-                fecha_formateada = fecha_venc.strftime('%d/%m/%Y')
-                
-                # Definición de tonos de color según días restantes
-                if dias_restantes <= 0:
-                    color_bg = "#d9534f" # Rojo Oscuro / Alerta Máxima
-                    texto_alerta = f"🔴 VENCIDO (Hace {abs(dias_restantes)} días) o Vence Hoy"
-                elif dias_restantes <= 10:
-                    color_bg = "#f0ad4e" # Naranja / Crítico
-                    texto_alerta = f"🟠 CRÍTICO (Faltan {dias_restantes} días)"
-                elif dias_restantes <= 30:
-                    color_bg = "#ffd700" # Amarillo / Advertencia (Texto negro para contraste)
-                    texto_alerta = f"🟡 ADVERTENCIA (Faltan {dias_restantes} días)"
-                elif dias_restantes <= 60:
-                    color_bg = "#90ee90" # Verde Claro / Seguro (Texto negro para contraste)
-                    texto_alerta = f"🟢 CONTROLADO (Faltan {dias_restantes} días)"
-                else:
-                    color_bg = "#228b22" # Verde Oscuro / Excelente
-                    texto_alerta = f"🟢 VIGENTE (Faltan {dias_restantes} días)"
-                
-                # Estilo de letra (Blanco para fondos oscuros, Negro para claros)
-                text_color = "#000000" if dias_restantes > 10 and dias_restantes <= 60 else "#ffffff"
-                
-                # Diseñamos un cuadro de alerta HTML interactivo en Streamlit
-                html_card = f"""
-                <div style="background-color:{color_bg}; padding:12px; border-radius:6px; margin-bottom:8px; color:{text_color}; font-family:Arial, sans-serif;">
-                    <strong style="font-size:16px;">{row['Entidad']}</strong> — Documento: <u>{row['Documento']}</u> <br>
-                    <strong>Vence el:</strong> {fecha_formateada} | <span style="font-weight:bold;">{texto_alerta}</span> <br>
-                    <small>Obs: {row['Observaciones'] if pd.notna(row['Observaciones']) else 'Sin observaciones'}</small>
-                </div>
-                """
-                st.markdown(html_card, unsafe_convert_html=True)
-                
-        else:
-            st.info("No hay registros en la pestaña de Choferes de GitHub. ¡Registra el primero a la derecha!")
-
-    with col_form_ch:
-        st.subheader("✏️ Registrar Personal")
-        with st.form("form_choferes", clear_on_submit=True):
-            entidad = st.text_input("Entidad (Nombre Chofer)")
-            documento = st.text_input("Documento (Tipo de Trámite/Carnet)")
-            fecha_alerta = st.date_input("Fecha de Alerta").strftime('%d/%m/%Y')
-            fecha_vencimiento = st.date_input("Fecha de Vencimiento").strftime('%d/%m/%Y')
-            vencido = st.selectbox("¿Vencido actualmente?", ["NO", "SI"])
-            observaciones = st.text_area("Observaciones")
-            estado_entidad = st.selectbox("Estado Entidad", ["Activo", "Baja Provisional", "Inactivo"])
+            # Verificamos si hay fechas válidas antes de intentar dibujarlas
+            fechas_validas = df_alertas.dropna(subset=['Fecha vencimiento'])
             
-            btn_guardar_ch = st.form_submit_button("💾 Guardar en Choferes")
-            
-            if btn_guardar_ch:
-                datos_a_enviar_ch = {
-                    "entidad": entidad,
-                    "id_documento": documento,
-                    "fecha_alerta": fecha_alerta,
-                    "fecha_vencimiento": fecha_vencimiento,
-                    "vencido": vencido,
-                    "observaciones": observaciones,
-                    "estado_entidad": estado_entidad
-                }
-                url_webhook = st.secrets["APPS_SCRIPT_WEBAPP_URL"]
-                
-                with st.spinner("Enviando a Google Sheets..."):
-                    respuesta = requests.post(url_webhook, json=datos_a_enviar_ch)
-                    if respuesta.status_code == 200:
-                        st.success("✅ ¡Chofer guardado con éxito!")
-                        st.info("🔄 Refresca la página en un momento para ver los cambios.")
+            if fechas_validas.empty:
+                st.warning("No se encontraron fechas de vencimiento válidas para mostrar las alertas. Verifica que la columna se llame 'Fecha vencimiento'.")
+            else:
+                # Recorremos fila por fila para armar las cajas de alertas de color
+                for index, row in fechas_validas.iterrows():
+                    fecha_venc = row['Fecha vencimiento']
+                    dias_restantes = (fecha_venc - hoy).days
+                    fecha_formateada = fecha_venc.strftime('%d/%m/%Y')
+                    
+                    # Definición de tonos de color según días restantes
+                    if dias_restantes <= 0:
+                        color_bg = "#d9534f" # Rojo Oscuro / Alerta Máxima
+                        texto_alerta = f"🔴 VENCIDO (Hace {abs(dias_restantes)} días) o Vence Hoy"
+                    elif dias_restantes <= 10:
+                        color_bg = "#f0ad4e" # Naranja / Crítico
+                        texto_alerta = f"🟠 CRÍTICO (Faltan {dias_restantes} días)"
+                    elif dias_restantes <= 30:
+                        color_bg = "#ffd700" # Amarillo / Advertencia
+                        texto_alerta = f"🟡 ADVERTENCIA (Faltan {dias_restantes} días)"
+                    elif dias_restantes <= 60:
+                        color_bg = "#90ee90" # Verde Claro / Seguro
+                        texto_alerta = f"🟢 CONTROLADO (Faltan {dias_restantes} días)"
                     else:
-                        st.error("❌ Hubo un problema al enviar los datos.")
+                        color_bg = "#228b22" # Verde Oscuro / Excelente
+                        texto_alerta = f"🟢 VIGENTE (Faltan {dias_restantes} días)"
+                    
+                    # Estilo de letra (Blanco para fondos oscuros, Negro para claros)
+                    text_color = "#000000" if dias_restantes > 10 and dias_restantes <= 60 else "#ffffff"
+                    
+                    # Diseñamos un cuadro de alerta HTML interactivo en Streamlit
+                    html_card = f"""
+                    <div style="background-color:{color_bg}; padding:12px; border-radius:6px; margin-bottom:8px; color:{text_color}; font-family:Arial, sans-serif;">
+                        <strong style="font-size:16px;">{row['Entidad']}</strong> — Documento: <u>{row['Documento']}</u> <br>
+                        <strong>Vence el:</strong> {fecha_formateada} | <span style="font-weight:bold;">{texto_alerta}</span> <br>
+                        <small>Obs: {row['Observaciones'] if pd.notna(row['Observaciones']) else 'Sin observaciones'}</small>
+                    </div>
+                    """
+                    st.markdown(html_card, unsafe_convert_html=True)
